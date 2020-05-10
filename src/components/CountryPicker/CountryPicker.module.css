@@ -1,0 +1,9 @@
+.formControl {
+    width: 58%;
+    margin-bottom: 30px !important;
+    box-shadow: 5px 1px 1px 1px #888888;
+}
+
+.formControl:hover {
+    box-shadow: 5px 1px 1px 1px blue;
+}
